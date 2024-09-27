@@ -1,0 +1,35 @@
+#bienvenidos{
+	text-align: center;
+	background:#169aac;
+}
+
+#bienvenidos h2{
+	padding: 15px;
+	text-transform: uppercase;
+
+}
+
+
+#blog{
+	padding:50px;
+	background:#3be3e9;
+}
+
+#blog h4{
+	text-align: center;
+}
+
+#blog .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap; 
+}
+
+#blog article{
+	margin:15px;
+}
+
+#blog img{
+	width: 100%;
+	max-width: 260px;
+}
